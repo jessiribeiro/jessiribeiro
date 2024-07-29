@@ -7,6 +7,7 @@
 Bem-vindo(a) ao meu perfil! Aqui você encontrará um pouco sobre minha formação, experiência profissional e interesses pessoais.
 ## Sobre Mim
 Sou formada em Tecnologia e Dados de Programa, com foco em Java e banco de dados. Atualmente, estou me especializando em Desenvolvimento Web Full Stack, trabalhando com tecnologias como JavaScript, HTML, CSS, Node.js e React.
+
 Além de minha paixão por tecnologia, adoro relaxar na praia, mimar minhas gatas e ficar por dentro das novidades ao redor do mundo.
 
 ## Experiência Profissional
