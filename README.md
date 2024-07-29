@@ -1,7 +1,7 @@
 # Jéssica Ribeiro
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/jéssica-ribeiro-273971245/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/jessiribeiro)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836)](mailto:jessiribeirob@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA)](https://discordapp.com/users/jessicaribeirob)
 
 Bem-vindo(a) ao meu perfil! Aqui você encontrará um pouco sobre minha formação, experiência profissional e interesses pessoais.
